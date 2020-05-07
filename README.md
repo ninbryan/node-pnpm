@@ -11,11 +11,11 @@ This is an opinionated environment that should be ready to use as a day-to-day d
 - **[nvm-sh/nvm](https://github.com/nvm-sh/nvm):** a tool to manage Node.js versions easily. Note, there is no default version installed - you will have to install your own. Using nvm to manage Node.js versions, you'll automatically get:
   - [nodejs/node](https://github.com/nodejs/node): The Node.js runtime.
   - [npm/cli](https://github.com/npm/cli): The npm package manager for JavaScript.
-- **[yarnpkg/yarn](https://github.com/yarnpkg/yarn):** The yarn package manager for JavaScript.
+- [pnpm/pnpm](https://github.com/pnpm/pnpm): Fast, disk space efficient package manager
 
 ### System Tools
 
-- [curl/curl](https://github.com/curl/curl): the command line tool for transferring data over a metric boatload of protocols. 
+- [curl/curl](https://github.com/curl/curl): the command line tool for transferring data over a metric boatload of protocols.
 - git: the Git SCM tool.
 - [gnupg2](https://gnupg.org/): a complete and free implementatiuon of the OpenPGP standard.
 - [stedolan/jq](https://github.com/stedolan/jq) - a command line JSON parser.
